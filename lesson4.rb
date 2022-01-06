@@ -1,0 +1,2 @@
+name = "hina"
+puts name
